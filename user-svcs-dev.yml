@@ -30,3 +30,7 @@ logging:
     org.apache.tomcat.util.descriptor: ERROR
     org.apache.catalina.core: ERROR
  
+ 
+ test:
+    refresh:
+        msg: 'Hello Test'
