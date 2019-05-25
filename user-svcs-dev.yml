@@ -1,3 +1,3 @@
 test:
-   refresh:
-       msg: 'Hello Test - Dev'
+    refresh:
+        msg: 'Hello Test - Dev'
